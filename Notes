@@ -9,3 +9,6 @@ No sementic Errors...:This logical error is hard to detect , there is no mistake
 FOR EXAMPLE:int a = 5;
             int b = 3;
             int sum = a - b; //  The programmer wants to summerize but he/she write minus
+
+input = Code
+output = Result of code
