@@ -5,7 +5,7 @@ Syntactic Error:Basic errors IDLE can easily detect them, they are like "writing
 EXAMPLE:print instead of pritn or  Print Well it can be missing somethink or can be too much
 Stactic Semantic Error:This logical errors can easily detectable , They dont make sense for pc.
 FOR EXAMPLE:int x = "Hello";  value type
-Semantic Error:This logical error is hard to detect , there is no mistake in program language but purpose is diffrent then real purpose , They make sense for pc :V
+No sementic Errors...:This logical error is hard to detect , there is no mistake in program language but purpose is diffrent then real purpose , They make sense for pc :V
 FOR EXAMPLE:int a = 5;
             int b = 3;
             int sum = a - b; //  The programmer wants to summerize but he/she write minus
