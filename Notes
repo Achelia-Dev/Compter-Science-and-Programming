@@ -1,3 +1,11 @@
 Declaretive Information:Thats just a piece of information it doesnt help how to do things.              
 Imperative Information:It says how to do things.
 
+Syntactic Error:Basic errors IDLE can easily detect them, they are like "writing error" they broke the language rules.
+EXAMPLE:print instead of pritn or  Print Well it can be missing somethink or can be too much
+Stactic Semantic Error:This logical errors can easily detectable 
+FOR EXAMPLE:int x = "Hello";  value type
+Semantic Error:This logical error is hard to detect , there is no mistake in program language but purpose is diffrent then real purpose
+FOR EXAMPLE:int a = 5;
+            int b = 3;
+            int sum = a - b; //  The programmer wants to summerize but he/she write minus
