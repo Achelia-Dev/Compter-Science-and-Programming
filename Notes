@@ -12,3 +12,8 @@ FOR EXAMPLE:int a = 5;
 
 input = Code
 output = Result of code
+
+
+FOOTNOTE:  "Year += 1" MEANS Year = Year + 1
+
+
