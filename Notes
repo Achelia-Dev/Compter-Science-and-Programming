@@ -16,4 +16,9 @@ output = Result of code
 
 FOOTNOTE:  "Year += 1" MEANS Year = Year + 1
 
+Difference between if and elif 
+If elif command is True then dont look other commands but if command is true c still look for other commands are true or false.
+
+
+
 
